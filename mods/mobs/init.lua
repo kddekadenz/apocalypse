@@ -6,7 +6,7 @@ mobs:register_mob("mobs:survivor", {
 	visual = "mesh",
 	mesh = "survivor.x",
 	textures = {"survivor1.png"},
-	collisionbox = {-0.4, -0.9, -0.4, 0.4, 0.8, 0.4},
+	collisionbox = {-0.4, -1.0, -0.4, 0.4, 0.8, 0.4},
 	visual_size = {x=1, y=1},
 	makes_footstep_sound = true,
 	view_range = 15,
